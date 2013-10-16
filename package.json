@@ -1,0 +1,19 @@
+{
+  "name": "update-package-json",
+  "version": "0.0.0",
+  "description": "Update package.json just like npm does",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grncdr/update-package-json.git"
+  },
+  "keywords": [
+    "npm",
+    "package.json"
+  ],
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "BSD"
+}
